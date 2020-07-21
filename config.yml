@@ -1,0 +1,3 @@
+noperm: "You don't have permission to use this command!"
+noplayer: "Error: No players on the server!"
+teleport: "Teleporting to random player..."

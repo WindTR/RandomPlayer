@@ -1,0 +1,13 @@
+name: RandomPlayer
+version: 1.0.2
+main: net.windturkey.randomplayer.randomplayer.RandomPlayer
+api-version: 1.13
+authors: [WindTR]
+description: Random Player Teleport!
+website: www.windturkey.net
+commands:
+  randomtp:
+    description: Randomly Teleport Players!
+    aliases:
+      - stafftp
+      - stp
